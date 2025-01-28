@@ -21,7 +21,7 @@ A role-based platform where professors and students can seamlessly manage:
 - Personalized timetables and study plans
 - Group video calls
 
-[🔗 View Project](#) | [📂 Repository](#)
+[📂 Repository](https://github.com/Utsav-Kasvala/CampusXP)
 
 ---
 
