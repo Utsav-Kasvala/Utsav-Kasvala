@@ -20,7 +20,7 @@ A role-based platform where professors and students can seamlessly manage:
 - Personalized timetables and study plans
 - Group video calls
 
-[💽 Repository](https://github.com/Utsav-Kasvala/CampusXP)
+[💽 Repository](https://github.com/Utsav-Kasvala/CampusXP) | [🌐 Live Site](https://www.campusxp.me/)
 
 ### 🏩 Meditech - Doctor Appointment & Rating System
 A user-friendly platform where patients can:
