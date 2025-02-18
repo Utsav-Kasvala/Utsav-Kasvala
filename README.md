@@ -29,8 +29,8 @@ A user-friendly platform where patients can:
 -  Patients can access available time slots and schedule appointments.
 -  Integration with Stripe enables seamless payment processing functionalities.
 -  Patients can evaluate doctors and provide feedback.
----
-[💽 Repository](https://github.com/Utsav-Kasvala/meditech)
+  
+ [💽 Repository](https://github.com/Utsav-Kasvala/meditech)
 
 ## 📊 GitHub Stats
 
