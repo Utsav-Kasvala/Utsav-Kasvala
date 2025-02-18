@@ -13,7 +13,7 @@ I love building scalable web applications and solving complex problems through c
 ---
 
 ## 🚀 My Projects
-### 🏻✍️ Campus College Tracker Web App
+### ✍️ Campus College Tracker Web App
 A role-based platform where professors and students can seamlessly manage:
 - Class creation and attendance tracking
 - Assignment submission and grading
@@ -25,10 +25,10 @@ A role-based platform where professors and students can seamlessly manage:
 ### 🏩 Meditech - Doctor Appointment & Rating System
 A user-friendly platform where patients can:
 
--  Facilitates the creation and management of profiles for both patients and doctors.
--  Patients can access available time slots and schedule appointments.
--  Integration with Stripe enables seamless payment processing functionalities.
--  Patients can evaluate doctors and provide feedback.
+- Profiles and dashboard for both patients and doctors.
+- Book appointment on timeslots.
+- Stripe for payment.
+- Evaluate doctors and provide feedback.
   
  [💽 Repository](https://github.com/Utsav-Kasvala/meditech)
 
