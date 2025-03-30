@@ -6,7 +6,7 @@
 I am a **passionate competitive programmer** and **web developer** with expertise in:
 
 - **Programming Languages**: C, C++, JavaScript, Python, Java, Golang
-- **Web Development**: React, Node.js, MongoDB
+- **Web Development**: React, Node.js, MongoDB, MySQL
 
 I love building scalable web applications and solving complex problems through code. 🚀
 
